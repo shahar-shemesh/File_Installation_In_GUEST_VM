@@ -3,6 +3,8 @@
 This project aims to automate the process of installing and executing files on a guest virtual machine (VM) via SSH connection. It utilizes Python with libraries such as Paramiko for SSH communication and Tkinter for creating a graphical user interface (GUI).
 
 <p align="center">
+  ![bc599515-3329-423f-af58-b082358813a4](https://github.com/shahar-shemesh/File_Installation_In_GUEST_VM/assets/62644579/2a918933-3325-40c7-be87-6221a496db9d)
+
   ![bc599515-3329-423f-af58-b082358813a4](https://github.com/shahar-shemesh/File_Installation_In_GUEST_VM/assets/62644579/cd0ab24c-0381-4881-9895-b57b449db09b)
 </p>
 
