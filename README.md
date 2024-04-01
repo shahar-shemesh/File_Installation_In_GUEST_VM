@@ -3,7 +3,7 @@
 This project aims to automate the process of installing and executing files on a guest virtual machine (VM) via SSH connection. The script establishes an SSH connection to the guest VM and allows the user to select a local folder containing files to be installed and executed on the VM. It copies the files to the VM, installs them if executable, executes PowerShell scripts silently, and retrieves relevant files from the VM.
 
 <p align="center">
-    <img src="https://litter.catbox.moe/yjymf2.jpg" alt="Sublime's custom image"/>
+    <img src="https://ik.imagekit.io/shahar/file-installation.jpg"/>
 </p>
 
 
