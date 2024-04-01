@@ -1,16 +1,11 @@
 # File Installation In GUEST VM
 
-This project aims to automate the process of installing and executing files on a guest virtual machine (VM) via SSH connection. It utilizes Python with libraries such as Paramiko for SSH communication and Tkinter for creating a graphical user interface (GUI).
+This project aims to automate the process of installing and executing files on a guest virtual machine (VM) via SSH connection. The script establishes an SSH connection to the guest VM and allows the user to select a local folder containing files to be installed and executed on the VM. It copies the files to the VM, installs them if executable, executes PowerShell scripts silently, and retrieves relevant files from the VM.
 
 <p align="center">
     <img src="https://litter.catbox.moe/yjymf2.jpg" alt="Sublime's custom image"/>
 </p>
 
-
-
-
-## Introduction
-The script establishes an SSH connection to the guest VM and allows the user to select a local folder containing files to be installed and executed on the VM. It copies the files to the VM, installs them if executable, executes PowerShell scripts silently, and retrieves relevant files from the VM.
 
 
 ## Features
@@ -21,6 +16,7 @@ The script establishes an SSH connection to the guest VM and allows the user to 
 - Execute PowerShell scripts silently.
 - Retrieve relevant files from the VM.
 - Display progress using a GUI with a progress bar and status updates.
+
 
 ## Requirements
 - Python 3.x
