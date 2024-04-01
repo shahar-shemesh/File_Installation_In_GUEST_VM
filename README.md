@@ -3,7 +3,7 @@
 This project aims to automate the process of installing and executing files on a guest virtual machine (VM) via SSH connection. It utilizes Python with libraries such as Paramiko for SSH communication and Tkinter for creating a graphical user interface (GUI).
 
 <p align="center">
-    <img src="https://private-user-images.githubusercontent.com/62644579/316840334-cd0ab24c-0381-4881-9895-b57b449db09b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE0NTI2MTksIm5iZiI6MTcxMTQ1MjMxOSwicGF0aCI6Ii82MjY0NDU3OS8zMTY4NDAzMzQtY2QwYWIyNGMtMDM4MS00ODgxLTk4OTUtYjU3YjQ0OWRiMDliLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI2VDExMjUxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkODUyZWFjYWZiMGNiMTE1ZWRhMTMxN2ZkMzlkZDQ2N2U4YjJmMWI0ZmE5Y2MwY2NiZjIwOWQxMGQ1MjY2YWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jtIGpJ5WCUqw9KrtfSBRcKqSkN5M7WyNtMQIbSGwjfg" alt="Sublime's custom image"/>
+    <img src="https://litter.catbox.moe/yjymf2.jpg" alt="Sublime's custom image"/>
 </p>
 
 
